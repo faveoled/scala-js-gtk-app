@@ -3,5 +3,5 @@ Scala.js Node GTK app sample. Tested on: Ubuntu 22.04.1, Scala 3.2.1, sbt 1.8.0,
 ##### Running:
 ```
 sbt run # stop the command after compile
-node target/scala-3.2.1/scalajs-bundler/main/scalajsapp-fastopt.js
+node target/scala-3.2.1/scalajs-bundler/main/scala-js-gtk-app-fastopt.js
 ```
